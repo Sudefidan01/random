@@ -1,0 +1,8 @@
+C:\Users\sadullah.sener\source\repos\20230806_Random\20230806_Random\bin\Debug\20230806_Random.exe.config
+C:\Users\sadullah.sener\source\repos\20230806_Random\20230806_Random\bin\Debug\20230806_Random.exe
+C:\Users\sadullah.sener\source\repos\20230806_Random\20230806_Random\bin\Debug\20230806_Random.pdb
+C:\Users\sadullah.sener\source\repos\20230806_Random\20230806_Random\obj\Debug\20230806_Random.csproj.AssemblyReference.cache
+C:\Users\sadullah.sener\source\repos\20230806_Random\20230806_Random\obj\Debug\20230806_Random.csproj.SuggestedBindingRedirects.cache
+C:\Users\sadullah.sener\source\repos\20230806_Random\20230806_Random\obj\Debug\20230806_Random.csproj.CoreCompileInputs.cache
+C:\Users\sadullah.sener\source\repos\20230806_Random\20230806_Random\obj\Debug\20230806_Random.exe
+C:\Users\sadullah.sener\source\repos\20230806_Random\20230806_Random\obj\Debug\20230806_Random.pdb
